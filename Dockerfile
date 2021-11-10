@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210114
 
 # Mostly Mike Grima: mgrima@netflix.com
 LABEL maintainer="netflixoss@netflix.com"
